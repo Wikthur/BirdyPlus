@@ -1,0 +1,23 @@
+#button1 {
+    background-color: #eb413b;
+    width: 90px;
+    height: 60px;
+    border-radius: 10px;
+    border: solid black 1px;
+    position: absolute;
+    top: 150px;
+    left: 225px;
+    
+}
+#text_btn1 {
+    font-family: Kevin Eleven;
+    font-size: 2em;
+    float: none;
+    text-align: center;
+    position: absolute;
+    top: -18px;
+    left: 0px;
+}
+#button1:active {
+    box-shadow: 3px 3px 3px black inset;
+}
